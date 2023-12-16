@@ -17,22 +17,21 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.js</code>
+            Initialized By&nbsp;
+            <code className={styles.code}>David Uyaguari</code>
           </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://github.com/David4Andres9"
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
               <Image
-                src="/vercel.svg"
-                alt="Vercel Logo"
+                src="/github.svg"
+                alt="GitHub Logo"
                 className={styles.vercelLogo}
-                width={100}
-                height={24}
+                width={300}
+                height={50}
                 priority
               />
             </a>
@@ -42,26 +41,27 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
+            src="/pucetec.svg"
+            alt="pucetec Logo"
+            width={300}
+            height={200}
             priority
-          />
+          />&nbsp;&nbsp;&nbsp;&nbsp;
+          <p>Buenos días Estrellitas la tierra les dice hola!</p>
         </div>
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://fotosdememes.b-cdn.net/wp-content/uploads/2021/09/Bienvenidos-al-Himalaya.jpg"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2>
-              Docs <span>-&gt;</span>
+              Easter Egg <span>-&gt;</span>
             </h2>
             <p>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Find a easter egg!!
             </p>
           </a>
 
